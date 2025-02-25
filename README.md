@@ -3,8 +3,8 @@
 I'm a **Computer Science student** with a relentless passion for learning and achieving excellence.  
 
 - 🌱 I’m currently learning JAVA, React, Python, C#, PHP.  
-- 👯 I’m looking to collaborate on OffSide detector , HelicoGame, Streaming App, etc.  
-- ⚡ Fun fact: I am a gpt-user! and love debugging late at night!  
+- 👯 I’m looking to collaborate on OffSide detector , HelicoGame, Streaming App, Sprint[Framework], Kohub.  
+- ⚡ Fun fact: I'm so creative! and love debugging late at night!  
 
 
 ## 🛠️ Technologies & Tools:
@@ -32,7 +32,7 @@ Here are some vibes to make your visit more exciting:
 
 ## 📫 Let’s Connect!
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** (mailto:rabearisonangelo21@gmail.com)
 
 Feel free to explore my repositories and connect with me. Let’s build something amazing together! 🚀
 
